@@ -55,7 +55,7 @@ const char *def_cfg = QUOTE({
 			"type": "string",
 			"default": "Band",
 			"order" : "4",
-			"displayName" : "Band prefix"
+			"displayName" : "Band Prefix"
 			},
 		"samples": {
 			"description": "The number of samples to use",
